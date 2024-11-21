@@ -1,1 +1,6 @@
 print("Hegawgaew")
+print("Hegawgaew")
+print("Hegawgaew")
+print("Hegawgaew")
+print("Hegawgaew")
+print("Hegawgaew")
